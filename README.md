@@ -1,6 +1,9 @@
 # Coursera-DE-C2-configure-shell
 Learn to configure the shell environment by editing .bashrc
 
+![Config == Automation](https://user-images.githubusercontent.com/58792/142741497-f0c58775-c85f-4185-9657-9d2c77e7e546.png)
+
+
 ## Goal:   Learn to configure 
 
 Let's practice configuring the Bash shell
